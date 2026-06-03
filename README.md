@@ -43,5 +43,5 @@ I'm a Cybersecurity Enthusiast focused on both Blue Team and Red Team operations
 
 ### Connect With Me
 
-* LinkedIn: Add your LinkedIn profile URL
+* LinkedIn: (https://www.linkedin.com/in/mohiuddin-sujan/)
 * Email: [mohiuddinsujan.pntester@gmail.com]
