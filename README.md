@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Mohiuddin Sujan 👋
 
-<!--
-**mohiuddinsujan/mohiuddinsujan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a Cybersecurity Enthusiast focused on both Blue Team and Red Team operations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Areas of Interest
+
+* Security Operations Center (SOC)
+* Threat Detection & Incident Response
+* SIEM Engineering (Splunk, Wazuh)
+* Penetration Testing
+* Vulnerability Assessment
+* Cloud Security
+* Threat Hunting
+
+### Skills
+
+* Splunk
+* Wazuh
+* Sysmon
+* Windows Event Analysis
+* Kali Linux
+* Nmap
+* Burp Suite
+* Wireshark
+* MITRE ATT&CK
+* Python
+* Git & GitHub
+
+### Current Goals
+
+* Build practical SOC detection labs
+* Develop Splunk detection content
+* Expand cloud security expertise
+* Contribute to cybersecurity projects
+
+### Certifications
+
+* Blue Team Junior Analyst (BTJA)
+* Cybersecurity Training & Labs
+* Cloud Security Learning Path
+
+### Connect With Me
+
+* LinkedIn: Add your LinkedIn profile URL
+* Email: [mohiuddinsujan.pntester@gmail.com]
