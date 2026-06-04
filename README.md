@@ -1,4 +1,4 @@
-# Hi, I'm Mohiuddin Sujan 👋
+# Hi, I'm Mohiuddin Sujan
 
 ## About Me
 
